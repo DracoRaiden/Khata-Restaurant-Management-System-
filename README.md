@@ -27,3 +27,4 @@ Collaborated on database schema design, backend logic, and UI development. Handl
 ## 📄 Report
 
 The full report includes ER diagrams, flowcharts, screen captures, and SQL query design. It is attached in the repo.
+📄 For more details, check the [Full Report](./report.pdf)
